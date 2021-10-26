@@ -1,0 +1,29 @@
+.bottom p {
+  width: 350px;
+  text-align: center;
+  justify-content: center;
+}
+
+
+#c31432linear-gradient(to bottom, rgba(82, 105, 240, 0.82), rgba(219, 76, 183, 0.774)),
+
+
+TASK
+Create a one-page catalog of 9ijakids games in React. The API for the data source is: http://bit.ly/TeaserTask
+
+REQUIREMENTS:  
+1. Title: 9ijakids Game List
+2. A search bar to search for games by Topic
+3. A filter to filter games by Groups and Levels
+4. For each game, display the title, discription and image
+
+
+albashir is a multi store and general dealers in all kind of Electronical and Mehcanical appliances for homes and agricultures usefulness,
+specialize on mechanical power supply  such as  lister 
+diesel engine, petrol engine,  honada, yamaha and all sort of generator sizes
+we deal with robin villars, kubata, car wash and water pump engines.
+construction machine are also available, such as concrete block and mixer machine, 
+our agricuture machines are cassava greater, cassava presser and grounding machine.
+we also deal on home appliances such as deep freezer, standing fan plasma TV and home theater
+
+
